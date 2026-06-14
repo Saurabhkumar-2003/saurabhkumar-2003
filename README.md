@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am saurabh kr mishra ,currently study Btech from uttranchal university <br>from ( uttrakhand dehradun) completed in 2027  batch<br>i am currently learning dsa i solve dsa problem on leetcode <br>i am also learning programing language like c++,javascript,html,css<br>and  also make project related to smart health assistant ,erp student model
+i am saurabh kr mishra ,currently study Btech from uttranchal university <br>from ( uttrakhand dehradun) completed in 2027  batch<br>i am currently learning dsa i solve dsa problem on leetcode <br>i am also learning programing language like c++,javascript,html,css<br>and  also make project iphone music syustem , image search app,learning managment system
 
 
 ## 🌐 Socials:
